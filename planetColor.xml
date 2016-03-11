@@ -1,0 +1,244 @@
+<cena>
+    <luzes>
+    </luzes>
+    <grupo>
+        <modelos>
+            <modelo ficheiro="sol.3d" diffR=1 diffG=1 diffB=0 />
+        </modelos>
+        <grupo>
+            <translação tempo=0.8797 >
+                <ponto X=16 Y=0 Z=0 />
+                <ponto X=15.6504 Y=0 Z=3.32659 />
+                <ponto X=14.6167 Y=0 Z=6.50779 />
+                <ponto X=12.9443 Y=0 Z=9.40456 />
+                <ponto X=10.7061 Y=0 Z=11.8903 />
+                <ponto X=8 Y=0 Z=13.8564 />
+                <ponto X=4.94427 Y=0 Z=15.2169 />
+                <ponto X=1.67245 Y=0 Z=15.9124 />
+                <ponto X=-1.67246 Y=0 Z=15.9124 />
+                <ponto X=-4.94427 Y=0 Z=15.2169 />
+                <ponto X=-8 Y=0 Z=13.8564 />
+                <ponto X=-10.7061 Y=0 Z=11.8903 />
+                <ponto X=-12.9443 Y=0 Z=9.40456 />
+                <ponto X=-14.6167 Y=0 Z=6.50779 />
+                <ponto X=-15.6504 Y=0 Z=3.32659 />
+                <ponto X=-16 Y=0 Z=-0.0 />
+                <ponto X=-15.6504 Y=0 Z=-3.32659 />
+                <ponto X=-14.6167 Y=0 Z=-6.50779 />
+                <ponto X=-12.9443 Y=0 Z=-9.40457 />
+                <ponto X=-10.7061 Y=0 Z=-11.8903 />
+                <ponto X=-8 Y=0 Z=-13.8564 />
+                <ponto X=-4.94427 Y=0 Z=-15.2169 />
+                <ponto X=-1.67245 Y=0 Z=-15.9124 />
+                <ponto X=1.67246 Y=0 Z=-15.9123 />
+                <ponto X=4.94427 Y=0 Z=-15.2169 />
+                <ponto X=8 Y=0 Z=-13.8564 />
+                <ponto X=10.7061 Y=0 Z=-11.8903 />
+                <ponto X=12.9443 Y=0 Z=-9.40456 />
+                <ponto X=14.6167 Y=0 Z=-6.50778 />
+                <ponto X=15.6504 Y=0 Z=-3.32658 />
+            </translação>         
+            <rotação tempo=0.58 eixoX=0 eixoY=1 eixoZ=0 />
+            <modelos>
+                <modelo ficheiro="mercurio.3d" diffR=1 diffG=1 diffB=0.6 />
+            </modelos>
+        </grupo>
+        <grupo>
+            <translação tempo=2.247 >
+                <ponto X=20 Y=0 Z=0 />
+                <ponto X=19.0211 Y=0 Z=6.18034 />
+                <ponto X=16.1803 Y=0 Z=11.7557 />
+                <ponto X=11.7557 Y=0 Z=16.1803 />
+                <ponto X=6.18034 Y=0 Z=19.0211 />
+                <ponto X=-0.0 Y=0 Z=20 />
+                <ponto X=-6.18034 Y=0 Z=19.0211 />
+                <ponto X=-11.7557 Y=0 Z=16.1803 />
+                <ponto X=-16.1803 Y=0 Z=11.7557 />
+                <ponto X=-19.0211 Y=0 Z=6.18034 />
+                <ponto X=-20 Y=0 Z=0.0 />
+                <ponto X=-19.0211 Y=0 Z=-6.18034 />
+                <ponto X=-16.1803 Y=0 Z=-11.7557 />
+                <ponto X=-11.7557 Y=0 Z=-16.1803 />
+                <ponto X=-6.18034 Y=0 Z=-19.0211 />
+                <ponto X=0.0 Y=0 Z=-20 />
+                <ponto X=6.18034 Y=0 Z=-19.0211 />
+                <ponto X=11.7557 Y=0 Z=-16.1803 />
+                <ponto X=16.1803 Y=0 Z=-11.7557 />
+                <ponto X=19.0211 Y=0 Z=-6.18034 />
+            </translação>
+            <rotação tempo=2.4301 eixoX=0 eixoY=1 eixoZ=0 />
+            <modelos>
+                <modelo ficheiro="venus.3d" diffR=0.87 diffG=0.87 diffB=0.87 />
+            </modelos>
+        </grupo>
+        <grupo>
+            <translação tempo=3.6525 >
+                <ponto X=25 Y=0 Z=0 />
+                <ponto X=24.8029 Y=0 Z=3.13333 />
+                <ponto X=24.2146 Y=0 Z=6.21725 />
+                <ponto X=23.2444 Y=0 Z=9.20311 />
+                <ponto X=21.9077 Y=0 Z=12.0438 />
+                <ponto X=20.2254 Y=0 Z=14.6946 />
+                <ponto X=18.2242 Y=0 Z=17.1137 />
+                <ponto X=15.9356 Y=0 Z=19.2628 />
+                <ponto X=13.3957 Y=0 Z=21.1082 />
+                <ponto X=10.6445 Y=0 Z=22.6207 />
+                <ponto X=7.72542 Y=0 Z=23.7764 />
+                <ponto X=4.68453 Y=0 Z=24.5572 />
+                <ponto X=1.56976 Y=0 Z=24.9507 />
+                <ponto X=-1.56977 Y=0 Z=24.9507 />
+                <ponto X=-4.68454 Y=0 Z=24.5572 />
+                <ponto X=-7.72543 Y=0 Z=23.7764 />
+                <ponto X=-10.6445 Y=0 Z=22.6207 />
+                <ponto X=-13.3957 Y=0 Z=21.1082 />
+                <ponto X=-15.9356 Y=0 Z=19.2628 />
+                <ponto X=-18.2242 Y=0 Z=17.1137 />
+                <ponto X=-20.2254 Y=0 Z=14.6946 />
+                <ponto X=-21.9077 Y=0 Z=12.0438 />
+                <ponto X=-23.2444 Y=0 Z=9.20311 />
+                <ponto X=-24.2146 Y=0 Z=6.21724 />
+                <ponto X=-24.8029 Y=0 Z=3.13333 />
+                <ponto X=-25 Y=0 Z=0.0 />
+                <ponto X=-24.8029 Y=0 Z=-3.13334 />
+                <ponto X=-24.2146 Y=0 Z=-6.21725 />
+                <ponto X=-23.2444 Y=0 Z=-9.20312 />
+                <ponto X=-21.9077 Y=0 Z=-12.0438 />
+                <ponto X=-20.2254 Y=0 Z=-14.6946 />
+                <ponto X=-18.2242 Y=0 Z=-17.1137 />
+                <ponto X=-15.9356 Y=0 Z=-19.2628 />
+                <ponto X=-13.3957 Y=0 Z=-21.1082 />
+                <ponto X=-10.6445 Y=0 Z=-22.6207 />
+                <ponto X=-7.72542 Y=0 Z=-23.7764 />
+                <ponto X=-4.68453 Y=0 Z=-24.5572 />
+                <ponto X=-1.56976 Y=0 Z=-24.9507 />
+                <ponto X=1.56977 Y=0 Z=-24.9507 />
+                <ponto X=4.68454 Y=0 Z=-24.5572 />
+                <ponto X=7.72543 Y=0 Z=-23.7764 />
+                <ponto X=10.6445 Y=0 Z=-22.6207 />
+                <ponto X=13.3957 Y=0 Z=-21.1082 />
+                <ponto X=15.9356 Y=0 Z=-19.2628 />
+                <ponto X=18.2242 Y=0 Z=-17.1137 />
+                <ponto X=20.2254 Y=0 Z=-14.6946 />
+                <ponto X=21.9077 Y=0 Z=-12.0438 />
+                <ponto X=23.2444 Y=0 Z=-9.20311 />
+                <ponto X=24.2146 Y=0 Z=-6.21724 />
+                <ponto X=24.8029 Y=0 Z=-3.13332 />
+            </translação>
+            <rotação tempo=0.00997 eixoX=0 eixoY=1 eixoZ=0 />
+            <modelos>
+                <modelo ficheiro="terra.3d" diffR=0.0 diffG=0.0 diffB=1 />
+            </modelos>
+                <grupo>
+                    <translação tempo=0.273 >
+                        <ponto X=4 Y=0 Z=0 />
+                        <ponto X=3.23607 Y=0 Z=2.35114 />
+                        <ponto X=1.23607 Y=0 Z=3.80423 />
+                        <ponto X=-1.23607 Y=0 Z=3.80423 />
+                        <ponto X=-3.23607 Y=0 Z=2.35114 />
+                        <ponto X=-4 Y=0 Z=0.0 />
+                        <ponto X=-3.23607 Y=0 Z=-2.35114 />
+                        <ponto X=-1.23607 Y=0 Z=-3.80423 />
+                        <ponto X=1.23607 Y=0 Z=-3.80423 />
+                        <ponto X=3.23607 Y=0 Z=-2.35114 />
+                    </translação>
+                    <rotação tempo=0.273 eixoX=0 eixoY=1 eixoZ=0 />
+                    <modelos>
+                        <modelo ficheiro="lua.3d" diffR=0.5 diffG=0.5 diffB=0.5 />
+                    </modelos>
+                </grupo>
+        </grupo>
+        <grupo>
+            <translação tempo=6.8698 >
+                <ponto X=34 Y=0 Z=0 />
+                <ponto X=32.3359 Y=0 Z=10.5066 />
+                <ponto X=27.5066 Y=0 Z=19.9847 />
+                <ponto X=19.9847 Y=0 Z=27.5066 />
+                <ponto X=10.5066 Y=0 Z=32.3359 />
+                <ponto X=0.0 Y=0 Z=34 />
+                <ponto X=-10.5066 Y=0 Z=32.3359 />
+                <ponto X=-19.9847 Y=0 Z=27.5066 />
+                <ponto X=-27.5066 Y=0 Z=19.9847 />
+                <ponto X=-32.3359 Y=0 Z=10.5066 />
+                <ponto X=-34 Y=0 Z=0.0 />
+                <ponto X=-32.3359 Y=0 Z=-10.5066 />
+                <ponto X=-27.5066 Y=0 Z=-19.9847 />
+                <ponto X=-19.9847 Y=0 Z=-27.5066 />
+                <ponto X=-10.5066 Y=0 Z=-32.3359 />
+                <ponto X=0.0 Y=0 Z=-34 />
+                <ponto X=10.5066 Y=0 Z=-32.3359 />
+                <ponto X=19.9847 Y=0 Z=-27.5066 />
+                <ponto X=27.5066 Y=0 Z=-19.9847 />
+                <ponto X=32.3359 Y=0 Z=-10.5066 />
+            </translação>
+            <rotação tempo=0.01026 eixoX=0 eixoY=1 eixoZ=0 />
+            <modelos>
+                <modelo ficheiro="marte.3d" diffR=0.8 diffG=0 diffB=0 />
+            </modelos>
+        </grupo>
+        <grupo>
+            <translação tempo=43.33 >
+                <ponto X=86 Y=0 Z=0 />
+                <ponto X=78.5649 Y=0 Z=34.9794 />
+                <ponto X=57.5452 Y=0 Z=63.9105 />
+                <ponto X=26.5755 Y=0 Z=81.7909 />
+                <ponto X=-8.98945 Y=0 Z=85.5289 />
+                <ponto X=-43 Y=0 Z=74.4782 />
+                <ponto X=-69.5755 Y=0 Z=50.5495 />
+                <ponto X=-84.1207 Y=0 Z=17.8804 />
+                <ponto X=-84.1207 Y=0 Z=-17.8804 />
+                <ponto X=-69.5755 Y=0 Z=-50.5495 />
+                <ponto X=-43 Y=0 Z=-74.4782 />
+                <ponto X=-8.98944 Y=0 Z=-85.5289 />
+                <ponto X=26.5755 Y=0 Z=-81.7909 />
+                <ponto X=57.5452 Y=0 Z=-63.9104 />
+                <ponto X=78.5649 Y=0 Z=-34.9793 />
+            </translação>
+            <rotação tempo=0.00414 eixoX=0 eixoY=1 eixoZ=0 />
+            <modelos>
+                <modelo ficheiro="jupiter.3d" diffR=0.6 diffG=0 diffB=0 />
+            </modelos>
+        </grupo>
+        <grupo>
+            <translação tempo=144.2525 >
+                <ponto X=156 Y=0 Z=0 />
+                <ponto X=110.309 Y=0 Z=110.309 />
+                <ponto X=0.0 Y=0 Z=156 />
+                <ponto X=-110.309 Y=0 Z=110.309 />
+                <ponto X=-156 Y=0 Z=0.0 />
+                <ponto X=-110.309 Y=0 Z=-110.309 />
+                <ponto X=0.0 Y=0 Z=-156 />
+                <ponto X=110.309 Y=0 Z=-110.309 />
+            </translação>
+            <rotação tempo=0.00426 eixoX=0 eixoY=1 eixoZ=0 />
+            <modelos>
+                <modelo ficheiro="saturno.3d" diffR=1 diffG=0.5 diffB=0 />
+            </modelos>
+        </grupo>
+        <grupo>
+            <translação tempo=306.85 >
+                <ponto X=305 Y=0 Z=0 />
+                <ponto X=152.5 Y=0 Z=264.138 />
+                <ponto X=-152.5 Y=0 Z=264.138 />
+                <ponto X=-305 Y=0 Z=0.0 />
+                <ponto X=-152.5 Y=0 Z=-264.138 />
+                <ponto X=152.5 Y=0 Z=-264.138 />
+            </translação>
+            <rotação tempo=0.0051 eixoX=0 eixoY=1 eixoZ=0 />
+            <modelos>
+                <modelo ficheiro="urano.3d" diffR=0 diffG=0.8 diffB=0 />
+            </modelos>
+        </grupo>
+        <grupo>
+            <translação tempo=602.5525 >
+                <ponto X=460 Y=0 Z=0 />
+                <ponto X=0.0 Y=0 Z=460 />
+                <ponto X=-460 Y=0 Z=0.0 />
+                <ponto X=0.0 Y=0 Z=-460 />
+            </translação>
+            <rotação tempo=0.00675 eixoX=0 eixoY=1 eixoZ=0 />
+            <modelos>
+                <modelo ficheiro="neptuno.3d" diffR=0.2 diffG=0.6 diffB=1 />
+            </modelos>
+        </grupo>
+    </grupo>
+</cena>

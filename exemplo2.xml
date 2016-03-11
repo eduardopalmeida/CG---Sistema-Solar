@@ -1,0 +1,11 @@
+<cena>
+	<modelos>
+		<modelo ficheiro="sol.3d" diffR=0.8 diffG=0.8 diffB=0.15 />
+	</modelos>
+	<grupo>
+		<translação X=11 />
+		<modelos>
+			<modelo ficheiro="esfera.3d" textura="relva.jpg" />
+		</modelos>
+	</grupo>
+</cena>

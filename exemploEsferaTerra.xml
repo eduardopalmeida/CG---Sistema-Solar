@@ -1,0 +1,9 @@
+<cena>
+		<luz tipo="POINT" posX=20 posY=20 posZ=0 />
+	</luzes>	
+	<grupo>
+		<modelos>
+			<modelo ficheiro="esferaTerra.3d" textura="terra.jpg" />
+		</modelos>
+	</grupo>
+</cena>

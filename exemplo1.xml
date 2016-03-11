@@ -1,0 +1,12 @@
+<cena>
+	<luzes>
+	</luzes>
+	<grupo>
+		<translação X=5 Y=0 Z=2 />
+		<rotação angulo=25 eixoX=1 eixoY=0 eixoZ=0 />
+		<modelo ficheiro="paralelo.3d" />
+	</grupo>
+	<grupo>
+		<modelo ficheiro="esfera.3d" />
+	</grupo>
+</cena>
